@@ -1,3 +1,5 @@
+#Steps for the Cinemato Project
+
 1. Clone the Git Repository
 2. Create a new Virtual Enviroment and install the dependencies given in requirements.txt file
 3. Open the directory ("Cinemato/manage.py") containing manage.py file in the terminal
