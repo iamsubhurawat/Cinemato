@@ -1,4 +1,4 @@
-# Steps for the Cinemato Project
+# Steps to follow
 
 1. Clone the Git Repository
 2. Create a new Virtual Enviroment and install the dependencies given in requirements.txt file
